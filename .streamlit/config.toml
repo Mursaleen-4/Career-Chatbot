@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#00f5ff"
+backgroundColor = "#0f0f23"
+secondaryBackgroundColor = "#1a1a2e"
+textColor = "#ffffff"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false
